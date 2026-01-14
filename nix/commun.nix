@@ -17,7 +17,7 @@
           lockFile = "${src}/Cargo.lock";
 
           outputHashes = {
-            "steel-core-0.7.0" = "sha256-f60rAK6tIXk4LFDw+DbcY06NblmqalcJvWvbKYr9BHM=";
+            "steel-core-0.7.0" = "sha256-+QNeyE2vUy8g/8cXPM/LkyTSH9bQAUT5PDvb0I2PraA=";
           };
         };
         src = lib.cleanSource src;
